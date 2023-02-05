@@ -5,9 +5,9 @@
 * 
 *  Name: Aashna Kundra Student ID: 163028210 Date: 2/5/2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://app.cyclic.sh/#/deploy/Aashnakundra/web322-app
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/Aashnakundra/web322-app
 *
 ********************************************************************************/ 
 var express = require("express");
